@@ -1,0 +1,2 @@
+# shotdesk-releases
+Установщики ShotDesk
